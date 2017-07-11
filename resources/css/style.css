@@ -23,3 +23,11 @@ h3 {
 p {
   font-size: 14px;
 }
+#endline {
+  background-color: dimgray;
+  text-align: left;
+}
+.copyright {
+  font-size: 11px;
+  color: white;
+}
